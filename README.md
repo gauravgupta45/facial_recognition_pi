@@ -8,7 +8,7 @@ To run the programme follow the steps:
 
 2.) Create a folder named trainer and then run 02_face_training.py which will create a yml trainer file in that folder. 
 
-3.) In 03_face_recognition script add your name in list at a position according to your user Id. If you have user Id 1 the add your name in the first position of list. Finally RUn the script.
+3.) In 03_face_recognition script add your name in list at a position according to your user Id. If you have user Id 1 the add your name in the first position of list. Finally Run the script.
 
 Modules used:
 
